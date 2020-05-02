@@ -1,2 +1,2 @@
-# sabre_de_luz
-projeto de sabre de luz com arduino
+# sabre de luz
+## projeto sabre de luz utilizando arduino
